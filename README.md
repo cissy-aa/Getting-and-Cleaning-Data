@@ -20,12 +20,12 @@ Getting-and-Cleaning-Data
 **activity_id**
  * Class: Integer 
  * Description: An identifier of the activity name that the subject did in the experiment.
- ** 1 WALKING
- ** 2 WALKING_UPSTAIRS
- ** 3 WALKING_DOWNSTAIRS
- ** 4 SITTING
- ** 5 STANDING
- ** 6 LAYING
+	* 1 WALKING
+	* 2 WALKING_UPSTAIRS
+	* 3 WALKING_DOWNSTAIRS
+	* 4 SITTING
+	* 5 STANDING
+	* 6 LAYING
 
 
 **activity_label**
@@ -41,20 +41,19 @@ Getting-and-Cleaning-Data
 **time_body_accelerometer_mean_xyz**
  * Class: Numeric
  * Description: 
- ** time domain signals were captured at a constant rate of 50 Hz.
- ** mean value
- ** body acceleration signals
- ** accelerometer 3-axial raw signals 
- ** in the X, Y and Z directions
+	* time domain signals were captured at a constant rate of 50 Hz.
+	* mean value
+	* body acceleration signals
+	* accelerometer 3-axial raw signals 
+	* in the X, Y and Z directions
 
  
 **time_body_accelerometer_standard_deviation_xyz**
  * Class: Numeric
  * Description:
- ** time domain signals were captured at a constant rate of 50 Hz.
- ** standard deviation
- ** body acceleration signals
- ** accelerometer 3-axial raw signals 
- ** in the X, Y and Z directions
- 
+	* time domain signals were captured at a constant rate of 50 Hz.
+	* standard deviation
+	* body acceleration signals
+	* accelerometer 3-axial raw signals 
+	* in the X, Y and Z directions
  
