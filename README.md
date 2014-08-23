@@ -17,9 +17,9 @@ Getting-and-Cleaning-Data
 
 # Code book
 
-**activity_id**
- * Class: Integer 
- * Description: An identifier of the activity name that the subject did in the experiment.
+####activity_id
+ * **Class**: Integer 
+ * **Description**: An identifier of the activity name that the subject did in the experiment.
 	* 1 WALKING
 	* 2 WALKING_UPSTAIRS
 	* 3 WALKING_DOWNSTAIRS
@@ -28,19 +28,19 @@ Getting-and-Cleaning-Data
 	* 6 LAYING
 
 
-**activity_label**
- * Class: Character 
- * Description: Activity name.
+####activity_label
+ * **Class**: Character 
+ * **Description**: Activity name.
 
  
-**subject_id**
- * Class: Integer 
- * Description: An identifier of the subject who carried out the experiment.
+####subject_id
+ * **Class**: Integer 
+ * **Description**: An identifier of the subject who carried out the experiment.
 
  
-**time_body_accelerometer_mean_xyz**
- * Class: Numeric
- * Description: 
+####time_body_accelerometer_mean_xyz
+ * **Class**: Numeric
+ * **Description**: 
 	* time domain signals were captured at a constant rate of 50 Hz.
 	* mean value
 	* body acceleration signals
@@ -48,9 +48,9 @@ Getting-and-Cleaning-Data
 	* in the X, Y and Z directions
 
  
-**time_body_accelerometer_standard_deviation_xyz**
- * Class: Numeric
- * Description:
+####time_body_accelerometer_standard_deviation_xyz
+ * **Class**: Numeric
+ * **Description**: 
 	* time domain signals were captured at a constant rate of 50 Hz.
 	* standard deviation
 	* body acceleration signals
